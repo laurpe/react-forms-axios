@@ -23,7 +23,6 @@ class App extends Component {
     };
 
     inputHandler = (e) => {
-        console.log("normal inputhandler", e.target.value);
         this.setState({
             inputData: {
                 ...this.state.inputData,
@@ -89,7 +88,6 @@ class App extends Component {
     };
 
     inputUpdateHandler = (e) => {
-        console.log("inputupdatehandler: ", e.target.value);
         this.setState({
             currentNote: {
                 ...this.state.currentNote,

@@ -1,7 +1,6 @@
 import React from "react";
 
 const Form = (props) => {
-    console.log("form props", props);
     return (
         <form onChange={props.change} onSubmit={props.submit}>
             <div>
