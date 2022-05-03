@@ -27,6 +27,8 @@ const App = () => {
         });
     };
 
+    console.log("hooks branch");
+
     const handleFormSubmit = async () => {
         const response = await axios.post(
             "http://localhost:3010/notes",
