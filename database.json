@@ -1,20 +1,12 @@
 {
   "notes": [
     {
-      "id": 2,
-      "firstname": "Sarah",
-      "lastname": "White",
-      "phone": "0408374959",
-      "role": "student",
-      "message": "another message here"
-    },
-    {
       "id": 3,
       "firstname": "Susan",
       "lastname": "Green",
       "phone": "0407463859",
       "role": "other",
-      "message": "more messages"
+      "message": "more messages here"
     },
     {
       "firstname": "sdfsdf",
@@ -33,8 +25,8 @@
       "id": 5
     },
     {
-      "firstname": "cccc",
-      "lastname": "ccccc",
+      "firstname": "dddd",
+      "lastname": "dddd",
       "phone": "23424234",
       "role": "student",
       "message": "dfgfdgdfgdfg",
