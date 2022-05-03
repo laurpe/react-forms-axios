@@ -1,0 +1,28 @@
+{
+    "notes": [
+        {
+            "id": 1,
+            "firstname": "Mark",
+            "lastname": "Brown",
+            "phone": "0509385740",
+            "role": "teacher",
+            "message": "message here"
+        },
+        {
+            "id": 2,
+            "firstname": "Sarah",
+            "lastname": "White",
+            "phone": "0408374959",
+            "role": "student",
+            "message": "another message here"
+        },
+        {
+            "id": 3,
+            "firstname": "Susan",
+            "lastname": "Green",
+            "phone": "0407463859",
+            "role": "other",
+            "message": "more messages"
+        }
+    ]
+}
